@@ -14,7 +14,7 @@
 
 <h1>Website Clones Collection</h1>
 
-<p>Welcome to the <strong>Website Clones Collection</strong> repository! This private repository contains my personal projects where I practice cloning real-world websites. Currently, it includes two clones: Amazon and Netflix. I plan to add more in the future as I continue honing my skills.</p>
+<p>Welcome to the <strong>Website Clones Collection</strong> repository! This private repository contains my personal projects where I practice cloning real-world websites. Currently, it includes three clones: Amazon , Netflix , Spotify. I plan to add more in the future as I continue honing my skills.</p>
 
 <h2>Table of Contents</h2>
 <ul>
