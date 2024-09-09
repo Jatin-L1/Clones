@@ -61,6 +61,12 @@
             <td>HTML, CSS</td>
             <td>Completed</td>
         </tr>
+        <tr>
+            <td><strong>Spotify Clone</strong></td>
+            <td>A spotify landing page clone, focusing on UI/UX and responsive elements.</td>
+            <td>HTML, CSS</td>
+            <td>Js to be implemented for songs</td>
+        </tr>
     </tbody>
 </table>
 
